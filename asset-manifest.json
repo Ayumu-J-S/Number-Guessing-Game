@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Number-Guessing-Game/static/css/main.836f9b3c.css",
+    "main.js": "/Number-Guessing-Game/static/js/main.84acce32.js",
+    "index.html": "/Number-Guessing-Game/index.html",
+    "main.836f9b3c.css.map": "/Number-Guessing-Game/static/css/main.836f9b3c.css.map",
+    "main.84acce32.js.map": "/Number-Guessing-Game/static/js/main.84acce32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.836f9b3c.css",
+    "static/js/main.84acce32.js"
+  ]
+}
