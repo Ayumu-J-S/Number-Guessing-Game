@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-A modified version of <a href="https://github.com/mdn/learning-area/blob/main/javascript/introduction-to-js-1/first-splash/number-guessing-game.html">the simple guessing game made by mdn</a>. You can play the game at https://ayumu-j-s.github.io/Number-Guessing-Game/.
+A modified React version of <a href="https://github.com/mdn/learning-area/blob/main/javascript/introduction-to-js-1/first-splash/number-guessing-game.html">the simple guessing game made by mdn</a>. You can play the game at https://ayumu-j-s.github.io/Number-Guessing-Game/.
 
 ## List of modification
 <ol>
